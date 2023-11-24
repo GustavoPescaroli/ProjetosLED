@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\bin\Debug\ProjetoSemaforo.exe.config
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\bin\Debug\ProjetoSemaforo.exe
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\bin\Debug\ProjetoSemaforo.pdb
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.Form1.resources
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.Properties.Resources.resources
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.exe
+C:\Users\aluno\source\repos\ProjetoSemaforo\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.pdb
